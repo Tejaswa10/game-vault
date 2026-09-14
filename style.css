@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(168, 219, 240);
+
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.game-card{
+    width: 300px;
+}
+.game-card img{
+    width: 300px;
+    border-radius: 10px;
+}
+.game-card h3{
+    text-align: center;
+    font-family: sans-serif;
+}
