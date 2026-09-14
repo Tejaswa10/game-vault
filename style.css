@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(168, 219, 240);
+    background-color: rgb(168, 218, 240);
 
 }
 h1{
@@ -12,6 +12,8 @@ h1{
 }
 .game-card img{
     width: 300px;
+    height: 200px;
+    object-fit: contain;
     border-radius: 10px;
 }
 .game-card h3{
@@ -20,6 +22,7 @@ h1{
 }
 .game-grid{
     display: grid;
-    grid-template-columns: 300px 300px 300px;
+    grid-template-columns: repeat(3, 300px);
     gap: 20px;
+    justify-content: center;
 }
