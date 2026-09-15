@@ -27,7 +27,7 @@ I created this project because I wanted to make a website about something I enjo
 
 ## Screenshot
 
-![Game Vault Screenshot](screenshot.png)
+![Game Vault Screenshot](images/screenshot.png)
 
 ## What I Learned
 
